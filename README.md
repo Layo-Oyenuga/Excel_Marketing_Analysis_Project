@@ -24,8 +24,8 @@ The dataset contains marketing campaign data of 2,240 customers of Maven Marketi
   In the data cleaning phase, i performed the following tasks;
   * Checked for duplicate values but there was none found
   * Handled missing values and 24 missiing values were found in income column and the values were replaced with 0
-  * Converted tect to numbers.
-  * Changed text to Proper Case.
+  * Converted text to numbers.
+  * Changed text to proper Case.
     
 ![dupppliccc](https://github.com/Layo-Oyenuga/Excel_Marketing_Analysis_Project/assets/141513681/5ff69e12-039f-4799-9bad-c8f2203eb0dc)
 
