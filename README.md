@@ -83,7 +83,8 @@ Based on the analysis, we recommend the following actions;
 
 After analysis, I represented the information using a bar chart and column chart.
 
-![mmmmmm](https://github.com/Layo-Oyenuga/Excel_Marketing_Analysis_Project/assets/141513681/62ba901c-d556-4685-92b1-38a37ce28c3a)
+![Data Visualization](https://github.com/Layo-Oyenuga/Excel_Marketing_Analysis_Project/assets/141513681/e50879ce-0475-4f3f-b997-429de777efc3)
+
 
 
         
