@@ -1,9 +1,10 @@
-# Excel_Marketing_Analysis_Project
+# Marketing-Analysis
 
 ## Table of Contents 
 
  * [Project Overview](#project-overview)
  * [Data Overview](#data-overview)
+ * [Tool Used](#tool-used)
  * [Data Cleaning](#data-cleaning)
  * [Exploratory Data Analysis](#exploratory-data-analysis)
  * [Results](#results)
@@ -15,11 +16,14 @@
 
 This project's aim is to provide insights into the Maven Marketing company over a two-year period by analyzing marketing data. The goal is to identify trends and make data-driven recommendations based on the analysis.
 
-### Data Overview
+## Data Overview
 
 The dataset contains marketing campaign data of 2,240 customers of Maven Marketing, including customer profiles, product preferences, campaign successes/failures, and channel performance. There are 6 products that are being sold at Maven marketing company such as Wine,Meat, Gold, Fish, Sweet and Fruits.
 
-### Data Cleaning
+## Tool Used
+* Excel
+
+## Data Cleaning
 
   In the data cleaning phase, i performed the following tasks;
   * Checked for duplicate values but there was none found
@@ -31,7 +35,7 @@ The dataset contains marketing campaign data of 2,240 customers of Maven Marketi
 
 ![findandreplace](https://github.com/Layo-Oyenuga/Excel_Marketing_Analysis_Project/assets/141513681/3af09fb7-c4b9-4df4-9b55-8b51e320fad8)
 
-### Exploratory Data Analysis 
+## Exploratory Data Analysis 
 
 EDA involved exploring the marketing data to answer key questions such as;
 
@@ -40,7 +44,7 @@ EDA involved exploring the marketing data to answer key questions such as;
 * Which channels are used more by customers?
 * Which country are most of the products sold?
 
-### Results
+## Results
   
 * The first question asked was, which product is performing best?
 
@@ -79,7 +83,7 @@ Based on the analysis, we recommend the following actions;
  * Campaign 2 should not be really regarded since it got the least campaign accepted by customer.
    
 
-### Data Visualization
+## Data Visualization
 
 After analysis, I represented the information using a bar chart and column chart.
 
